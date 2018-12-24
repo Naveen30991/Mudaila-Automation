@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22357" started-at="2018-12-24T16:30:23Z" finished-at="2018-12-24T16:30:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22357" started-at="2018-12-24T16:30:23Z" finished-at="2018-12-24T16:30:46Z">
+      <class name="com.mudaila.qa.testcases.LoginImpl">
+        <test-method status="PASS" signature="allInvocation()[pri:0, instance:com.mudaila.qa.testcases.LoginImpl@1cbbffcd]" name="allInvocation" is-config="true" duration-ms="5986" started-at="2018-12-24T22:00:23Z" finished-at="2018-12-24T22:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allInvocation -->
+        <test-method status="PASS" signature="titleImpl()[pri:1, instance:com.mudaila.qa.testcases.LoginImpl@1cbbffcd]" name="titleImpl" duration-ms="15671" started-at="2018-12-24T22:00:29Z" finished-at="2018-12-24T22:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleImpl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mudaila.qa.testcases.LoginImpl@1cbbffcd]" name="tearDown" is-config="true" duration-ms="662" started-at="2018-12-24T22:00:45Z" finished-at="2018-12-24T22:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mudaila.qa.testcases.LoginImpl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
